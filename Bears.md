@@ -7,5 +7,5 @@ As an addition to my introductory post, I thought that I would make an additiona
 
 Here are two of my favorite pictures of Bears:
 
-![Bear Playing in the Snow](./assets/Bear1.JPG){: style="float: left"}
-![Bear being silly](./assets/Bear2.JPG){: style="float: right"}
+![Bear Playing in the Snow](./pic_assets/Bear1.JPG){: style="float: left"}
+![Bear being silly](./pic_assets/Bear2.JPG){: style="float: right"}
