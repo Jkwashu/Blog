@@ -5,3 +5,33 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+@import url('https://fonts.googleapis.com/css2?family=Rosario:wght@515&display=swap');
+
+.site-header {
+  background-color: rgb(225, 132, 9);
+}
+
+body{
+  font-family: 'Rosario', sans-serif;
+
+  background-color: white;
+}
+
+.site-footer {
+  background-color: rgb(46, 45, 45);
+}
+
+.social-media-list li {
+  background-color: rgb(21, 21, 21);
+}
+
+.title-scroll-container {
+  overflow: hidden;
+}
+
+.site-title {
+  animation: forwards;
+
+  font-family: 'Rosario', sans-serif;
+}
