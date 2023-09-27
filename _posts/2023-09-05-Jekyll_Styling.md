@@ -15,5 +15,5 @@ As a few final remarks to reflect on this lab, there wasn't exactly anything tha
 
 Updated Website Pictures Below!
 
-![UpdatedBears]({{site.baseurl}}/pic_assets/Bear_ScnS.png){: style="float: left"}
+![UpdatedBears]({{site.baseurl}}/pic_assets/BearScnS.png){: style="float: left"}
 ![UpdatedBlog]({{site.baseurl}}/pic_assets/BlogScnS.png){: style="float: right"}
